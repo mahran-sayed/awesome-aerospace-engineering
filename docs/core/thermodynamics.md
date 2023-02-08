@@ -74,7 +74,7 @@ Thermodynamics Learning Resources!:)
  
 ## :globe_with_meridians:Websites:
 
-[***Interactive Psychrometric Chart***](https://drajmarsh.bitbucket.io/psychro-chart2d.html***) <br />
+[***Interactive Psychrometric Chart***](https://drajmarsh.bitbucket.io/psychro-chart2d.html) <br />
 [***A steam table interpolator tool***](http://www.steam-tables.com/) <br />
 [***T-s diagram maker (tool)***](https://laurentsiino.github.io/Ts-diagram-maker/Tsdiagram/index.html) <br />
 [***Animated Engine (Animation and Visualization)***](http://animatedengines.com/) <br />
