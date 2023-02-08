@@ -97,7 +97,7 @@ Aerodynamics Learning Resources!:)
  
 ## Airfoil:
 [***Airfoil Tools***](http://airfoiltools.com/): 
-comprehensive database of 1638 airfoils that can be used on a project (like UAVs and Racing cars). A lot of data is based on NACA reports. The database contains performance characteristics like lift and drag coefficients.
+comprehensive database of 1638 airfoils that can be used on a project (like UAVs and Racing cars). A lot of data is based on NACA reports. The database contains performance characteristics like lift and drag coefficients. <br />
 [***UIUC Airfoil Data Site***](https://m-selig.ae.illinois.edu/ads/coord_database.html):
 Coordinates for approximately 1,600 airfoils as dat files you can download the complete database or just download specific airfoils. You can use them freely in your projects or websites.
 
