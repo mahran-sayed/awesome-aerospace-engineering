@@ -106,7 +106,7 @@ Rocket Propulsion Learning Resources!:)
 
 ***Ignition! An Informal History of Liquid Rocket Propellants*** <br />
 **Author:** John D Clarke <br />
-[**Download**](http://library.sciencemadness.org/library/books/ignition.pdf) <br />
+**Publisher:** Rutgers University Press Classics <br />
  <br />
 ***Rockets and People*** <br />
 **Author:** Boris Tchertok (NASA) <br />
