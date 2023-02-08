@@ -1,5 +1,5 @@
 # Awesome Aircraft Propulsion :small_airplane:	
-Aircraft Learning Resources!:)
+Aircraft Propulsion Learning Resources!:)
 
 ### **Table of Contents:**
 * [Books](#booksbooks)
