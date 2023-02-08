@@ -1,13 +1,13 @@
 # Awesome Fluid Mechanics 
 Fluid Mechanics Learning Resources!:)
 
-**Table of Contents:**
-* [Books](#books)
-* [Video Courses](#video-courses)
-* [Websites](#websites)
+### **Table of Contents:**
+* [Books](#booksbooks)
+* [Video Courses](#film_stripvideo-courses)
+* [Websites](#globe_with_meridianswebsites)
 
 
-## Books:
+## :books:Books:
 ***Fundamentals of Fluid Mechanics (Paid)*** <br />
 **Author:** Munson, Young and Okiishi <br />
 **Publisher:** Wiley <br />
@@ -54,7 +54,7 @@ Fluid Mechanics Learning Resources!:)
 **Author:** Daniel D. Joseph, University of Minnesota <br />
 [*Download*](http://www.efluids.com/efluids/books/joseph.htm) <br />
 
-## Video Courses 
+## :film_strip:Video Courses: 
 
 ***National Committee for Fluid Mechanics Films (NCFMF) (MIT) (Videos + PDF Notes)*** <br />
 **Instructor:** [*Ascher H. Shapiro*](https://en.wikipedia.org/wiki/Ascher_H._Shapiro) <br />
@@ -93,7 +93,7 @@ Description: A series of 39 videos and accompanying texts, which revolutionized 
 ***Fluid Mechanics - Concept & Derivation Videos (Cal Poly Pomona University)*** <br />
 [*Watch on YouTube*](https://youtube.com/playlist?list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe) <br />
 
-## Websites:
+## :globe_with_meridians:Websites:
 [***eFluids***](http://www.efluids.com/) <br />
 [***School-wide Modular Program on Fluid Mechanics (MIT)***](http://web.mit.edu/fluids-modules/www/) <br />
 [***Potto Project***](https://potto.org/index.php) <br />
