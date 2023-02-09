@@ -11,6 +11,11 @@
 * [Programming](#programming)
 * [Rocketry](#rocketry)
 * [Thermodynamics](#thermodynamics)
+* [PCB Design (For Projects)](#pcb-design-for-projects)
+* [Space Visualization](#space-visualization)
+* [Circuit Simulation](#circuit-simulation)
+* [Ground Station](#ground-station)
+* [Technical Writing and Presentations](#technical-writing-and-presentations)
 
 ## Calculations
 ***MATLAB & Simulink (Paid, offers discount for students):***
@@ -102,4 +107,46 @@ Your university may already provide access to MATLAB! [**Check here**](https://w
 ***EES (Paid):***
 [**Official Website**](https://fchartsoftware.com/ees/)
 
+
+# PCB Design (For Projects):
+***Altium (Paid, Free Student Version):***
+[**Official Website**](https://www.altium.com/), 
+[Student Edition](https://www.altium.com/education/student-licenses)
+
+***Diptrace (Paid, Free Community Version):***
+[**Official Website**](https://diptrace.com/)
+
+***KiCad (Free):***
+[**Official Website**](https://www.kicad.org/)
+
+***EasyEDA (Free, Paid, Student Version) (SaaS, Cloud):***
+[**Official Website**](https://easyeda.com/)
+
+# Space Visualization:
+
+***OpenSpace (Free):***
+[**Official Website**](https://www.openspaceproject.com)
+
+***SpaceEngine (Paid, Old Versions are available for free):***
+[**Official Website**](https://spaceengine.org)
+
+***Celestia (Free):***
+[**Official Website**](https://celestia.space)
+
+# Circuit Simulation:
+
+***Proteus (Paid):***
+[**Official Website**](https://www.labcenter.com/)
+
+# Ground Station:
+***QGroundControl (Free):***
+[**Official Website**](http://qgroundcontrol.com/)
+
+# Technical Writing and Presentations:
+***Microsoft Office (Paid, Free Online Student Version):***
+[**Official Website**](https://www.microsoft.com/en-ww/microsoft-365/excel), 
+[Student Edition](https://www.microsoft.com/en-us/education/products/office)
+
+***Google Docs (Free):***
+[**Official Website**](https://www.google.com/docs/about/)
 
