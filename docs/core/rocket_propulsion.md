@@ -70,7 +70,7 @@ Rocket Propulsion Learning Resources!:)
 
 ## :globe_with_meridians:Websites:
 
-[***NASA Rocket Propulsion***](https://www.grc.nasa.gov/www/k-12/airplane/rocket.html) <br />
+[***NASA Rocket Propulsion***](https://www.grc.nasa.gov/www/k-12/rocket/shortr.html) <br />
 [***MIT Lecture Notes***](https://ocw.mit.edu/courses/16-512-rocket-propulsion-fall-2005/pages/lecture-notes/) <br />
 [***Richard Nakka’s Experimental Rocketry Site***](https://www.nakka-rocketry.net/index.htm) <br />
 [***MAE 5930 - (Legacy 2011-2012) Rocket Systems Design, Stephen A. Whitmore, PhD***](http://mae-nas.eng.usu.edu/MAE_5900_Web/5900/frameset_for_5930_F2010.html) <br />
