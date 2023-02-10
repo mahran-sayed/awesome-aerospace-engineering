@@ -29,7 +29,22 @@ Calculus I Learning Resources!:)
 ***Calculus I (Free), available by CalTech (courtesy of Springer-Verlag, New York)*** <br />
 **Author:** Jerrold E. Marsden and Alan Weinstein <br />
 [**Book Page**](http://www.cds.caltech.edu/~marsden/volume/Calculus/) or [**Download Page**](https://authors.library.caltech.edu/25030/) <br />
+ <br />
 
+***Elementary Calculus (Free)*** <br />
+**Author:** Michael Corral <br />
+[**Book Page**](http://www.mecmath.net/calculus/index.html) <br />
+<br />
+
+***Community Calculus (Free)*** <br />
+**Author:** David Guichard <br />
+[**Book Page**](https://www.whitman.edu/mathematics/multivariable/) <br />
+<br />
+
+***Elementary Calculus: An Infinitesimal Approach (Free)*** <br />
+**Author:** H. Jerome Keisler <br />
+[**Book Page**](https://people.math.wisc.edu/~hkeisler/calc.html) <br />
+ <br />
 ## :film_strip:Video Courses: 
 
 ***Math 131 Calculus I*** <br />
