@@ -22,7 +22,10 @@ Calculus I Learning Resources!:)
 **Author:** James Callahan, David Cox, Kenneth Hoffman, Donal O'Shea, Harriet Pollatsek, Lester Senechal <br />
 [**Book Page**](http://www.science.smith.edu/~callahan/intromine.html) <br />
  <br />
-
+***APEX Calculus I (Free)*** <br />
+**Author:** Gregory Hartman <br />
+[**Book Page**](http://www.apexcalculus.com/downloads/) <br />
+ <br />
 ***Calculus I (Free), available by CalTech (courtesy of Springer-Verlag, New York)*** <br />
 **Author:** Jerrold E. Marsden and Alan Weinstein <br />
 [**Book Page**](http://www.cds.caltech.edu/~marsden/volume/Calculus/) or [**Download Page**](https://authors.library.caltech.edu/25030/) <br />
