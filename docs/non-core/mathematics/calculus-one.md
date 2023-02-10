@@ -65,7 +65,10 @@ Calculus I Learning Resources!:)
  **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
  [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEXuq0ohzd_gYFi3JhXJZN-_)
 <br />
-
+ ***Video Calculus, University of Houston*** <br />
+ **Instructor:** Selwyn Hollis <br />
+ [**Homepage**](https://online.math.uh.edu/HoustonACT/videocalculus/index.html) <br />
+ <br />
 ## :globe_with_meridians:Websites:
 
 
