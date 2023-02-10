@@ -12,7 +12,7 @@ Calculus II Learning Resources!:)
 ***Thomas' Calculus (Paid)*** <br />
 **Author:** Joel Hass, Christopher Heil , Maurice Weir <br />
 **Publisher:** Pearson <br />
-
+ <br />
 ***Calculus Volume 2 (Free)*** <br />
 **Author:** Gilbert Strang, Edwin “Jed” Herman <br />
 **Publisher:** OpenStax <br />
@@ -30,10 +30,18 @@ Calculus II Learning Resources!:)
 **Author:** Jerrold E. Marsden and Alan Weinstein <br />
 [**Book Page**](http://www.cds.caltech.edu/~marsden/volume/Calculus/) or [**Download Page**](https://authors.library.caltech.edu/25036/) <br />
  <br />
- ***Community Calculus (Free)*** <br />
+***Elementary Calculus (Free)*** <br />
+**Author:** Michael Corral <br />
+[**Book Page**](http://www.mecmath.net/calculus/index.html) <br />
+<br />
+***Community Calculus (Free)*** <br />
 **Author:** David Guichard <br />
 [**Book Page**](https://www.whitman.edu/mathematics/multivariable/) <br />
-  <br />
+<br />
+***Elementary Calculus: An Infinitesimal Approach (Free)*** <br />
+**Author:** H. Jerome Keisler <br />
+[**Book Page**](https://people.math.wisc.edu/~hkeisler/calc.html) <br />
+ <br />
 ## :film_strip:Video Courses: 
 
 ***Calculus 2*** <br />
