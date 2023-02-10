@@ -60,6 +60,10 @@ Calculus II Learning Resources!:)
  **Instructor:** Selwyn Hollis <br />
  [**Homepage**](https://online.math.uh.edu/HoustonACT/videocalculus/index.html) <br />
   <br />
+***Math 1207-V21 – Calculus II – Summer 2022*** <br />
+**Instructor:** [Jhevon Smith](https://math.sci.ccny.cuny.edu/person/jhevon-smith/) <br />
+[**Homepage**](https://jhevonorg.wordpress.com/math-1207-v21-calculus-ii-summer-2022/), [**YouTube**](https://youtube.com/playlist?list=PLYoxM3oLTvxIl5XBAyOxc9Wki46qWHCfP) <br />
+  <br />
  ***Calculus II Videos (Integral Calculus), by mathispower4u***: [**Videos**](https://mathispower4u.com/calc-ii.php) <br />
  
 ## :globe_with_meridians:Websites:
