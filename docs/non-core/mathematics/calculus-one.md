@@ -69,7 +69,7 @@ Calculus I Learning Resources!:)
 ## :globe_with_meridians:Websites:
 
 
-[***Paul’s Online Notes***](https://tutorial.math.lamar.edu/) <br />
+[***Paul’s Online Notes***](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) <br />
 [***THE CALCULUS PAGE PROBLEMS LIST, by D. A. Kouba***](https://www.math.ucdavis.edu/~kouba/ProblemsList.html) <br />
 [***KorpisWorld Calculus***](https://www.korpisworld.com/Mathematics/Calculus%20Maximus/Calculus%20Maximus%20Splash.htm) <br />
 [***Calculus I MATH 125 Resources, University of Arizona***](https://calculus.math.arizona.edu/calc1/math125) <br />
