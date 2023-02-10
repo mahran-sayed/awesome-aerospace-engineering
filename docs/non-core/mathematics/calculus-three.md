@@ -73,4 +73,4 @@ Calculus III Learning Resources!:)
 [***Paul’s Online Notes***](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) <br />
 [***THE CALCULUS PAGE PROBLEMS LIST, by D. A. Kouba***](https://www.math.ucdavis.edu/~kouba/ProblemsList.html) <br />
 [***KorpisWorld Calculus***](https://www.korpisworld.com/Mathematics/Calculus%20Maximus/Calculus%20Maximus%20Splash.htm) <br />
-[***Calculus II MATH 129 Resources, University of Arizona***](https://calculus.math.arizona.edu/math129) <br />
+[***Vector Calculus MATH 223 Resources, University of Arizona***](https://calculus.math.arizona.edu/math223) <br />
