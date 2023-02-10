@@ -34,9 +34,9 @@ Calculus II Learning Resources!:)
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n) <br />
  <br />
  ***Calculus II Full Lectures*** <br />
- **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) 
- [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEWLlLEdH2gpK2J7gTAXzB5N)
- 
+ **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
+ [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEWLlLEdH2gpK2J7gTAXzB5N)<br />
+ <br />
  ***Calculus II Videos (Integral Calculus), by mathispower4u***: [**Videos**](https://mathispower4u.com/calc-ii.php) <br />
  
 ## :globe_with_meridians:Websites:
