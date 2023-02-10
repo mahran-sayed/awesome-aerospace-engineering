@@ -61,13 +61,17 @@ Calculus I Learning Resources!:)
 **Instructor:** Prof. Leonard <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLF797E961509B4EB5) <br />
 <br />
- ***Calculus I Full Lectures*** <br />
- **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
- [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEXuq0ohzd_gYFi3JhXJZN-_) <br />
+***Calculus I Full Lectures*** <br />
+**Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
+[**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEXuq0ohzd_gYFi3JhXJZN-_) <br />
 <br />
- ***Video Calculus, University of Houston*** <br />
- **Instructor:** Selwyn Hollis <br />
- [**Homepage**](https://online.math.uh.edu/HoustonACT/videocalculus/index.html) <br />
+***Video Calculus, University of Houston*** <br />
+**Instructor:** Selwyn Hollis <br />
+[**Homepage**](https://online.math.uh.edu/HoustonACT/videocalculus/index.html) <br />
+<br />
+***Math 1206-L11 - Calculus I - Fordham U - Summer 2021*** <br />
+**Instructor:** [Jhevon Smith](https://math.sci.ccny.cuny.edu/person/jhevon-smith/) <br />
+[**Homepage**](https://jhevonorg.wordpress.com/math-1206-l11-calculus-i-summer-2021/), [**YouTube**](https://youtube.com/playlist?list=PLYoxM3oLTvxIhly2NiKrtmJVnqkGo4uY2)
  <br />
 ## :globe_with_meridians:Websites:
 
