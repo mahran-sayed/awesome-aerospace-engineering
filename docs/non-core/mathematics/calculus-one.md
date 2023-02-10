@@ -35,16 +35,19 @@ Calculus I Learning Resources!:)
 [**Homepage**](http://ocw.mit.edu/18-01F06), 
 [**YouTube**](https://youtube.com/playlist?list=PL590CCC2BC5AF3BC1) <br />
  <br />
- 
 ***Calculus 1*** <br />
 **Instructor:** Prof. Leonard <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLF797E961509B4EB5) <br />
-
-
+<br />
+ ***Calculus I Full Lectures*** <br />
+ **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
+ [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEXuq0ohzd_gYFi3JhXJZN-_)
+<br />
 
 ## :globe_with_meridians:Websites:
 
 
 [***Paul’s Online Notes***](https://tutorial.math.lamar.edu/) <br />
 [***THE CALCULUS PAGE PROBLEMS LIST, by D. A. Kouba***](https://www.math.ucdavis.edu/~kouba/ProblemsList.html) <br />
-[***KorpisWorld Calculus***](https://www.korpisworld.com/Mathematics/Calculus%20Maximus/Calculus%20Maximus%20Splash.htm)
+[***KorpisWorld Calculus***](https://www.korpisworld.com/Mathematics/Calculus%20Maximus/Calculus%20Maximus%20Splash.htm) <br />
+[***Calculus I MATH 125 Resources, University of Arizona***](https://calculus.math.arizona.edu/calc1/math125) <br />
