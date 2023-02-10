@@ -63,7 +63,7 @@ Calculus I Learning Resources!:)
 <br />
  ***Calculus I Full Lectures*** <br />
  **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
- [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEXuq0ohzd_gYFi3JhXJZN-_)
+ [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEXuq0ohzd_gYFi3JhXJZN-_) <br />
 <br />
  ***Video Calculus, University of Houston*** <br />
  **Instructor:** Selwyn Hollis <br />
