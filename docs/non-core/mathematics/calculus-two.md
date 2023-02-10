@@ -56,6 +56,10 @@ Calculus II Learning Resources!:)
  **Instructor:** [Valerie Hower](https://cos.northeastern.edu/people/valerie-hower/) <br />
  [**Watch On YouTube**](https://youtube.com/playlist?list=PLpcwHaLYiaEWLlLEdH2gpK2J7gTAXzB5N)<br />
  <br />
+ ****Video Calculus, University of Houston*** <br />
+ **Instructor:** Selwyn Hollis <br />
+ [**Homepage**](https://online.math.uh.edu/HoustonACT/videocalculus/index.html) <br />
+  <br />
  ***Calculus II Videos (Integral Calculus), by mathispower4u***: [**Videos**](https://mathispower4u.com/calc-ii.php) <br />
  
 ## :globe_with_meridians:Websites:
