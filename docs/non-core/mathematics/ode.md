@@ -11,8 +11,8 @@ Ordinary Differential Equations Learning Resources!:)
 
 ***Elementary Differential Equations with Boundary Value Problems (Available for Free by Trinity University)*** <br />
 **Author:** William F. Trench <br />
-[Book](https://digitalcommons.trinity.edu/mono/9/), 
-[Solution Manual](https://digitalcommons.trinity.edu/mono/10/) <br />
+[**Book**](https://digitalcommons.trinity.edu/mono/9/), 
+[**Solution Manual**](https://digitalcommons.trinity.edu/mono/10/) <br />
 <br />
 ***Ordinary Differential Equations (Free)*** <br />
 **Author:** Stephen Wiggins <br />
