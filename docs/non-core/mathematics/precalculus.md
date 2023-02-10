@@ -32,11 +32,15 @@ Precalulus Learning Resources!:)
 ***Precalculus - College Algebra/Trigonometry*** <br />
 **Instructor:** Prof. Leonard <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)  <br />
-
+  <br />
 ***MTH 166: Precalculus with Trigonometry*** <br />
 **Instructor:** Yiheng Wang, Ph.D. (Lone Star College - CyFair, Cypress, TX) <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLLbvVfERDon2H_IPX_0OO2GW612xM8ZY7)  <br />
  <br />
+***Math 1000-R03 - Precalculus - Fordham U - Fall 2019***  <br />
+**Instructor:** [Jhevon Smith](https://math.sci.ccny.cuny.edu/person/jhevon-smith/)  <br />
+[**Homepage**](https://jhevonorg.wordpress.com/math-1000-r03-precalculus-fall-2019/), [**Watch On YouTube**](https://youtube.com/playlist?list=PLYoxM3oLTvxK-uD8QszitlemtP7X2g7LN)  <br />
+   <br />
 ***Precalculus*** <br />
 **Instructor:** Rob Tarrou <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PL4FB17E5C77DCCE69)  <br />
