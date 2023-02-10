@@ -22,7 +22,11 @@ Calculus II Learning Resources!:)
 **Author:** James Callahan, David Cox, Kenneth Hoffman, Donal O'Shea, Harriet Pollatsek, Lester Senechal <br />
 [**Book Page**](http://www.science.smith.edu/~callahan/intromine.html) <br />
  <br />
-
+ 
+ ***Calculus II (Free), available by CalTech (courtesy of Springer-Verlag, New York)*** <br />
+ **Author:** Jerrold E. Marsden and Alan Weinstein <br />
+ [**Book Page**](http://www.cds.caltech.edu/~marsden/volume/Calculus/) or [**Download Page**](https://authors.library.caltech.edu/25036/) <br />
+ <br />
 ## :film_strip:Video Courses: 
 
 ***Calculus 2*** <br />
