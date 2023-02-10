@@ -48,4 +48,4 @@ Precalulus Learning Resources!:)
 ## :globe_with_meridians:Websites: <br />
 
 [***Paul’s Online Notes***](https://tutorial.math.lamar.edu/) <br />
-
+[***UMich Ugrad Math Prep Module***](https://prep.math.lsa.umich.edu/pmc/)
