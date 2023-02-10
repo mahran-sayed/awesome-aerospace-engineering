@@ -30,6 +30,10 @@ Calculus II Learning Resources!:)
 **Author:** Jerrold E. Marsden and Alan Weinstein <br />
 [**Book Page**](http://www.cds.caltech.edu/~marsden/volume/Calculus/) or [**Download Page**](https://authors.library.caltech.edu/25036/) <br />
  <br />
+ ***Community Calculus (Free)*** <br />
+**Author:** David Guichard <br />
+[**Book Page**](https://www.whitman.edu/mathematics/multivariable/) <br />
+  <br />
 ## :film_strip:Video Courses: 
 
 ***Calculus 2*** <br />
