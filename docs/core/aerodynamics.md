@@ -1,4 +1,4 @@
-# Awesome Gas Dynamics :small_airplane:	
+# Aerodynamics :small_airplane:	
 Aerodynamics Learning Resources!:)
 
 ### **Table of Contents:**
