@@ -6,7 +6,10 @@ Aircraft Propulsion Learning Resources!:)
 * [Video Courses](#film_stripvideo-courses)
 
 ## :books:Books:
-
+***Mechanics and Thermodynamics of Propulsion (Paid)*** <br />
+**Author:** Philip Hill, Carl Peterson <br />
+**Publisher:** Pearson <br />
+<br />
 ***Thermodynamics and Propulsion (Free)*** <br />
 **Author:** Prof. Z. S. Spakovszky <br />
 [**Online Version**](https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html ) <br />
