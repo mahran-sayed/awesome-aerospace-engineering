@@ -1,5 +1,5 @@
-# Awesome Aerodynamics :small_airplane:	
-Aerodynamics Learning Resources!:)
+# Awesome Spacecraft Systems
+Spacecraft Systems Learning Resources!:)
 
 ### **Table of Contents:**
 * [Books](#booksbooks)
@@ -10,6 +10,10 @@ Aerodynamics Learning Resources!:)
 
 ## :books:Books:
 
+***Spacecraft Systems Engineering (Paid)*** <br />
+**Author:** Peter Fortescue, Graham Swinerd, John Stark <br />
+**Publisher:** Wiley <br />
+<br />
 ***Satellite Communications Reference Data Handbook, 1972 (Free)*** <br />
 **Author:** Altman, Frederick J.  Burgess, John L.  Driscoll, Clarence R.  McAllister, Neil F.  Selz, George O. <br />
 [**Download**](https://apps.dtic.mil/sti/citations/AD0746165) <br />
