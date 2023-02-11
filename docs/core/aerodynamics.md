@@ -4,7 +4,7 @@ Aerodynamics Learning Resources!:)
 ### **Table of Contents:**
 * [Books](#booksbooks)
 * [Video Courses](#film_stripvideo-courses)
-* [Web Based Courses](#open_bookweb-based-courses)
+* [Web Based Courses](#open_bookweb-based-courses--)
 * [Websites](#globe_with_meridianswebsites)
 * [Airfoil](#airfoil)
 * [Propeller](#propeller)
@@ -84,6 +84,11 @@ Aerodynamics Learning Resources!:)
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLhwqhcexBHpUfIlq-6XxDw3xEEN3-KN3V)  <br />
  <br />
 
+***Introduction to airplane performance, IIT Kanpur (NPTEL)*** <br />
+**Instructor:** Dr. A.K. Ghosh <br />
+[**Videos and Data from NPTEL**](https://nptel.ac.in/courses/101104061) <br />
+ <br />
+
 ## :open_book:Web Based Courses:  <br />
 
 ***Introduction to Aerodynamics (edX, MIT)***  <br />
@@ -93,6 +98,7 @@ Aerodynamics Learning Resources!:)
 
 [***Aerodynamics for Students***](http://www.aerodynamics4students.com/)  <br />
 [***Index of Aerodynamics Slides - Glenn Research Center (NASA)***](https://www.grc.nasa.gov/www/k-12/airplane/short.html)  <br />
+[***Aircraft Performance, Stability and control with experiments in Flight, IIT Kanpur***](https://nptel.ac.in/courses/101104007)  <br />
  <br />
  
 ## Airfoil:
