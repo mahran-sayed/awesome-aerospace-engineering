@@ -16,7 +16,15 @@ Numerical Methods Learning Resources!:)
 ***Numerical Methods with Applications (Free)*** <br />
 **Author:** [Autar Kaw](https://autarkaw.com/) <br />
 [**Download**](http://nm.mathforcollege.com/NumericalMethodsTextbookUnabridged/Book2021.pdf)  <br />
- <br />
+<br />
+***Numerical Recipes in C, Second Edition (Free)*** <br />
+**Author:** William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery <br />
+[**Homepage**](http://s3.amazonaws.com/nrbook.com/book_C210.html) <br />
+<br />
+***Numerical Recipes in Fortran 90, Second Edition (Free)*** <br />
+**Author:** William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery <br />
+[**Homepage**](http://s3.amazonaws.com/nrbook.com/book_F210.html) <br />
+<br />
 ***Python Programming and Numerical Methods: A Guide For Engineers And Scientists (Free)*** <br />
 **Author:** Qingkai Kong, Timmy Siauw, Alexandre Bayen  <br />
 [**Homepage (Online Version)**](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)  <br />
