@@ -21,7 +21,7 @@ Ordinary Differential Equations Learning Resources!:)
 ## :film_strip:Video Courses: 
 ***MIT - Ordinary Differential Equations*** <br />
 **Instructor:** [Haynes Miller](https://math.mit.edu/~hrm/), [Arthur Mattuck](https://math.mit.edu/~apm/) <br />
-[Homepage](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/), [YouTube](https://youtube.com/playlist?list=PLKsaFBJCXzqaYap6aaREHjB9Rwy3Tmsyq)
+[Homepage](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/), [YouTube](https://youtube.com/playlist?list=PLKsaFBJCXzqaYap6aaREHjB9Rwy3Tmsyq)<br />
 <br />
 ***Math 391 - Methods of Differential Equations - Spring 2015 (ODE + Some PDE)*** <br />
 **Instructor:** [Jhevon Smith](https://math.sci.ccny.cuny.edu/person/jhevon-smith/) <br />
