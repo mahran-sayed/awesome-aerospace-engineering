@@ -2,6 +2,13 @@
 
 Awesome LaTeX resources!:)
 
+### **Table of Contents:**
+* [Books](#books)
+* [Videos](#videos)
+* [Web Tutorials](#web-tutorials)
+* [Related Resources](#related-resources)
+
+
 ## Books
 
 [***The Not So Short Introduction to LaTeX***](http://mirrors.ibiblio.org/CTAN/info/lshort/english/lshort.pdf)
@@ -24,7 +31,7 @@ Awesome LaTeX resources!:)
 
 [***LearnLaTeX***](https://www.learnlatex.org/)
 
-## Related resources:
+## Related Resources:
 
 [***LaTeX Templates***](http://www.latextemplates.com/)
 
