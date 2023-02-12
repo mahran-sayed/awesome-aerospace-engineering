@@ -1,9 +1,18 @@
 # Awesome Aerospace Competitions (Still Draft)
 
+**UAV:**
+
 [***AIAA DBF***](https://www.aiaa.org/dbf)
 
-[***Caltech Space Challenge***](https://www.spacechallenge.caltech.edu/)
+**CanSat:**
 
 [***CanSat Competition by American Astronautical Society (AAS)***](https://cansatcompetition.com/)
 
-[***Spaceport America Cup (Rocketry)***](https://spaceportamericacup.com/)
+**Rocketry:**
+
+[***Spaceport America Cup***](https://spaceportamericacup.com/)
+
+**Space Mission Design:**
+
+[***Caltech Space Challenge***](https://www.spacechallenge.caltech.edu/)
+
