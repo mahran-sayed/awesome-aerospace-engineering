@@ -1,4 +1,7 @@
-# Awesome Aerospace Engineering
+# Awesome Aerospace Engineering 🚀✈️
+
+A list of aerospace learning materials , [How to contribure?](/CONTRIBUTING.md)
+
 
 ## Table of Contents
 * Core Subjects:
