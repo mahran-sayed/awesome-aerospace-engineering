@@ -1,4 +1,4 @@
-# Awesome CanSat Projects
+# Awesome Rocketry Projects
 
 ### **Table of Contents:**
 * [Guides](#guides)
