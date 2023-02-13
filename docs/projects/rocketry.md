@@ -2,7 +2,7 @@
 
 ### **Table of Contents:**
 * [Guides](#guides)
-  * [Books](#book)
+  * [Books](#books)
   * [Websites](#websites)
   * [Videos](#videos)
 * [Projects](#projects)
