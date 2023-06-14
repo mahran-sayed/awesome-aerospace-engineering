@@ -13,6 +13,14 @@ Numerical Methods Learning Resources!:)
 **Author:** Steven Chapra, Raymond Canale <br />
 **Publisher:** McGraw Hill <br />
 <br />
+***Numerical Methods: An Inquiry-Based Approach With Python (Free)*** <br />
+**Author:** Eric Sullivan <br />
+[**Online Version**](https://numericalmethodssullivan.github.io/), [**PDF Version**](https://github.com/NumericalMethodsSullivan/NumericalMethodsSullivan.github.io/blob/master/_main.pdf)<br />
+<br />
+***Fundamentals of Numerical Computation Julia Edition (Free)*** <br />
+**Author:** Tobin A. Driscoll and Richard J. Braun <br />
+[**Online Version**](https://tobydriscoll.net/fnc-julia/home.html)  <br />
+<br />
 ***Numerical Methods with Applications (Free)*** <br />
 **Author:** [Autar Kaw](https://autarkaw.com/) <br />
 [**Download**](http://nm.mathforcollege.com/NumericalMethodsTextbookUnabridged/Book2021.pdf)  <br />
