@@ -2,7 +2,15 @@
 Lighter Than Air Flight Learning Resources!:)
 
 ### **Table of Contents:**
+* [Books](#booksbooks)
 * [Video Courses](#film_stripvideo-courses)
+
+## :books:Books:
+
+***Scientific Ballooning (Paid)*** <br />
+**Author:** Toyoo Abe , Takeshi Imamura , Naoki Izutsu , Nobuyuki Yajima <br />
+**Publisher:** Springer <br />
+<br />
 
 ## :film_strip:Video Courses: 
 ***Lighter than Air Systems, IIT Bombay***  <br />
