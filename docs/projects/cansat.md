@@ -18,3 +18,4 @@
 
 ## Technical Reports 
 [***CanSat Competition Reports***](https://cansatcompetition.com/documents.html) <br />
+[***Atmospheric Data Measurement using Can-Sat and Data Logging in Ground Station***](https://www.researchgate.net/publication/326505110_Atmospheric_Data_Measurement_using_Can-Sat_and_Data_Logging_in_Ground_Station) <br />
