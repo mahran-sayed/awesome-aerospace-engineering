@@ -37,6 +37,8 @@ Handbook of Model Rocketry, 7th Edition (NAR Official Handbook) (Paid)
 
 [***Model Rocketry Technical Manual - Estes Rockets (PDF)***](https://estesrockets.com/wp-content/uploads/Educator/2819_Estes_Model_Rocketry_Technical_Manual.pdf)
 
+[***OpenRocket technical documentation (PDF)***](https://github.com/openrocket/openrocket/releases/download/OpenRocket_technical_documentation-v13.05/OpenRocket_technical_documentation-v13.05.pdf) (Good to understand how OpenRocket works and the rocket basics)
+
 ### Videos:
 
 [***How to Build a Model Rocket (YouTube Playlist)***](https://youtube.com/playlist?list=PLB1CABBFAA7E67039)
