@@ -14,6 +14,14 @@ Flight Mechanics Learning Resources!:)
 **Author:** Robert Nelson  <br />
 **Publisher:** McGraw-Hill Education <br />
 <br />
+***Airplane Flight Dynamics & Automatic Flight Controls (Paid)*** <br />
+**Author:** Jan Roskam   <br />
+**Publisher:** DARcorporation <br />
+<br />
+***Introduction to Aircraft Stability and Control (Free)*** <br />
+**Author:** [David A. Caughey](https://www.mae.cornell.edu/faculty-directory/david-caughey) <br />
+[**PDF**](https://courses.cit.cornell.edu/mae5070/Caughey_2011_04.pdf), [**Course Homepage**](https://courses.cit.cornell.edu/mae5070/)  <br />
+ <br />
 ***Lecture Slides for Aircraft Flight Dynamics (Free)*** <br />
 **Author:** Robert F. Stengel <br />
 [**Slides**](http://stengel.mycpanel.princeton.edu/MAE331Lectures.html) <br />
@@ -23,7 +31,10 @@ Flight Mechanics Learning Resources!:)
 [**PDF**](https://apps.dtic.mil/sti/citations/AD0859330) <br />
 
 ## :film_strip:Video Courses: 
-
+***MAE 175: Flight Dynamics*** <br />
+**Instructor:** [Haithem Ezzat](https://taha.eng.uci.edu/) <br />
+[**Watch On YouTube**](https://youtube.com/playlist?list=PLVyHCaFIZQV9kw5wtU82dwEYvp4ZB7n3V) <br />
+ <br />
 ***Aircraft Flight Mechanics*** <br />
 **Instructor:** Harry Smith <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLVyHCaFIZQV9kw5wtU82dwEYvp4ZB7n3V) <br />
