@@ -23,9 +23,9 @@ CFD Learning Resources!:)
 
 ***Introduction to Computational Fluid Dynamics Course (NASA)*** <br />
 **Instructor:** Thomas H. Pulliam, David Zingg <br />
-[**Watch On NASA**](https://www.nas.nasa.gov/publications/ams/2018/introcfd.html) <br />
+[**Watch On NASA**](https://www.nas.nasa.gov/pubs/ams/2018/introcfd.html) <br />
  <br />
-*** ME 702 – Computational Fluid Dynamics (Boston University) *** <br />
+***ME 702 – Computational Fluid Dynamics (Boston University)*** <br />
 **Instructor:** [Lorena A. Barba](https://lorenabarba.com/) <br />
 [Watch On YouTube](https://youtube.com/playlist?list=PL30F4C5ABCE62CB61) <br />
  <br />
