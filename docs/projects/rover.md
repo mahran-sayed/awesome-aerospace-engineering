@@ -14,6 +14,10 @@
 [**Website**](http://sawppy.com/), 
 [**GitHub Repo**](https://github.com/Roger-random/Sawppy_Rover)
 
+***SESA ExoMy:***
+[**Website**](https://esa-prl.github.io/ExoMy/), 
+[**GitHub Repo**](https://github.com/0xD0M1M0/ExoMy)
+
 ***Simple LEGO Mindstorms Mars Rover:*** 
 [**Website**](http://www.bartneck.de/2018/03/03/simple-lego-mindstorms-mars-rover/)
 
