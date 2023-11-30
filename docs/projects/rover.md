@@ -14,7 +14,7 @@
 [**Website**](http://sawppy.com/), 
 [**GitHub Repo**](https://github.com/Roger-random/Sawppy_Rover)
 
-***SESA ExoMy:***
+***ESA ExoMy:***
 [**Website**](https://esa-prl.github.io/ExoMy/), 
 [**GitHub Repo**](https://github.com/0xD0M1M0/ExoMy)
 
