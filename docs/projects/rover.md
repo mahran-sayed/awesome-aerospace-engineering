@@ -7,7 +7,7 @@
 
 
 ***JPL Open Source Rover Project:*** 
-[**Website**](https://opensourcerover.jpl.nasa.gov/), 
+[**Website**](https://jplopensourcerover.com/), 
 [**GitHub Repo**](https://github.com/nasa-jpl/open-source-rover)
 
 ***Sawppy the Rover:***
