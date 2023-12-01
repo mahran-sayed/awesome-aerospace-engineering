@@ -1,4 +1,4 @@
-# Awesome CanSat Projects
+# Awesome Rover Projects
 
 
 ### **Table of Contents:**
