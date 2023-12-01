@@ -29,3 +29,11 @@
 
 ***ROS Rover:*** 
 [**GitHub Repo**](https://github.com/danielsnider/ros-rover)
+
+***Legged Rovers*** <br />
+
+ ***OpenQuadruped:***
+[**GitHub Repo**](https://github.com/adham-elarabawy/open-quadruped)
+
+***SpotMicroAI:***
+[**Website**](https://spotmicroai.readthedocs.io/en/latest/)
