@@ -1,4 +1,4 @@
-# Awesome Aerodynamics :small_airplane:	
+# Awesome Structure :small_airplane:	
 Aerodynamics Learning Resources!:)
 
 ### **Table of Contents:**
