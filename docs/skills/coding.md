@@ -8,6 +8,10 @@
 **Instructor:** [Lorena A. Barba](https://lorenabarba.com/) <br />
 [**Course Page**](https://openedx.seas.gwu.edu/courses/course-v1:MAE+MAE6226+2017/about) <br />
 <br />
+***Python for Science and Engineering*** <br />
+**Instructor:** Hans-Petter Halvorsen <br />
+[**Watch On YouTube**](https://youtube.com/playlist?list=PLdb-TcK6Aqj2hlH55Bn5oxFIvyoVbXxQS&feature=shared) <br />
+[**Textbook + PowerPoint**](https://www.halvorsen.blog/documents/programming/python/python.php#python2) <br />
 ***Python for mechanical engineer*** <br />
 **Instructor:** Harikrushna Dodiya <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PL6xqi8nKo2yA98zG2moudwZpuWQK-iHmn) <br />
