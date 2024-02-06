@@ -51,3 +51,8 @@ Control Theory Learning Resources!:)
 ***Process Dynamics and Control using Python and MATLAB*** <br />
 **Instructor:** [John D. Hedengren](https://apm.byu.edu/prism/index.php/Members/JohnHedengren) <br />
 [**Course Homepage**](https://apmonitor.com/pdc/index.php/Main/CourseSchedule)  <br />
+
+***Python for Control Engineering*** <br />
+**Instructor:** Hans-Petter Halvorsen <br />
+[**Watch On YouTube**](https://youtube.com/playlist?list=PLdb-TcK6Aqj1Kg6pV3zlrpUnPIRwG2_Ox&feature=shared) <br />
+[**Textbook + PowerPoint**](https://www.halvorsen.blog/documents/programming/python/python.php#python3) <br />
