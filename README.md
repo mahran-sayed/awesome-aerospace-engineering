@@ -56,9 +56,9 @@ A list of aerospace learning materials , [How to contribure?](/CONTRIBUTING.md)
 * Hard Skills:
   * Electronics:
     * [Soldering](/docs/hardskills/soldering.md)
-    * [PCB Design and Fabrication]()
     * [Multimeters]()
-    * [Arduino]()
+    * [PCB Design and Fabrication (Still Draft)]()
+    * [Arduino (Still Draft)]()
   * Digital Fabrication:
     * [Laser Cutting (Still Draft)]()
     * [CNC (Still Draft)]()
