@@ -53,7 +53,16 @@ A list of aerospace learning materials , [How to contribure?](/CONTRIBUTING.md)
   * [Lighter Than Air Projects (Still Draft)](/docs/projects/lta.md)
   * [Control Projects (Still Draft)](/docs/projects/control.md)
 * Hard Skills:
-  * [Soldering](/docs/hardskills/soldering.md)
+  * Electronics:
+    * [Soldering](/docs/hardskills/soldering.md)
+    * [PCB Design and Fabrication]()
+    * [Multimeters]()
+    * [Arduino]()
+  * Digital Fabrication:
+    * [Laser Cutting (Still Draft)]()
+    * [CNC (Still Draft)]()
+    * [3D Printing (Still Draft)]()
+    * [Hotwire Cut (Still Draft)]()
 * [Software](/docs/software.md)
 * [Podcasts](/docs/podcasts.md)
 * [Competitions](/docs/competitions.md)
