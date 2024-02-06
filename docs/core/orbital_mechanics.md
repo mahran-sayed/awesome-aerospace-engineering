@@ -58,5 +58,4 @@ Orbital Mechanics Learning Resources!:)
 ## :computer:Software and Tools: 
 [***Astrodynamics Software by David Vallado***](https://celestrak.org/software/vallado-sw.php) <br />
 [***Orbital Data, CelesTrak***](https://celestrak.org/) <br />
-[***Astronomy Data***](https://devstronomy.com/) <br />
 [***Computing planetary positions - a tutorial with worked examples***](http://www.stjarnhimlen.se/comp/tutorial.html#5) <br />
