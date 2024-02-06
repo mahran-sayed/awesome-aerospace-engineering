@@ -35,7 +35,7 @@ The book is available in other languages about 24 languages: [Webpage](https://m
 ***Basic Soldering Lessons 1 - 9 (OLD, but GOLD)***<br />
 **Author:** [PACE](https://paceworldwide.com/)<br />
 [**English Verions**](https://youtube.com/playlist?list=PL926EC0F1F93C1837&feature=shared)<br />
-**Available in:** [French](https://youtube.com/playlist?list=PLZ4bp4FXracKGlk4aftrkaomL0vYgHO_v&feature=shared), [Spanish](https://youtube.com/playlist?list=PLZ4bp4FXracJT7RjZ-WOIQsVG303V9aM2&feature=shared), [Swedish](https://youtube.com/playlist?list=PLZ4bp4FXracKKuhdusPTcJQgXCYV22PKb&feature=shared)
+**Available in:** [French](https://youtube.com/playlist?list=PLZ4bp4FXracKGlk4aftrkaomL0vYgHO_v&feature=shared), [Spanish](https://youtube.com/playlist?list=PLZ4bp4FXracJT7RjZ-WOIQsVG303V9aM2&feature=shared), [Swedish](https://youtube.com/playlist?list=PLZ4bp4FXracKKuhdusPTcJQgXCYV22PKb&feature=shared)<br />
 <br />
 ***Beginner's Guide to Soldering Electronics***<br />
 **Author:** Branchus Creations<br />
