@@ -6,7 +6,10 @@ CFD Learning Resources!:)
 * [Video Courses](#film_stripvideo-courses)
 
 ## :books:Books:
-
+***Computational Fluid Dynamics (Paid)*** <br />
+**Author:**  John Anderson <br />
+**Publisher:** McGraw-Hill Education <br />
+<br />
 ***Computational Methods for Fluid Dynamics (Paid)*** <br />
 **Author:**  Joel H. Ferziger , Milovan Perić , Robert L. Street <br />
 **Publisher:** Springer <br />
@@ -15,6 +18,9 @@ CFD Learning Resources!:)
 **Author:** John Anderson <br />
 **Publisher:** McGraw-Hill Education <br />
  <br />
+***Notes on Computational Fluid Dynamics: General Principles Online Book (Free)*** <br />
+**Author:** Greenshields, Christopher and Weller, Henry <br />
+[**Webpage**](https://doc.cfd.direct/notes/cfd-general-principles/) <br />
 ***I do like CFD, VOL.1 (Free, Paid)*** <br />
 **Author:** Katate Masatsuka <br />
 [**Download**](http://www.cfdbooks.com/) (extra contents are only available in the printed version which is paid) <br />
