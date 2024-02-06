@@ -52,6 +52,8 @@ A list of aerospace learning materials , [How to contribure?](/CONTRIBUTING.md)
   * [Helicopter Design (Still Draft)](/docs/projects/helicopter.md)
   * [Lighter Than Air Projects (Still Draft)](/docs/projects/lta.md)
   * [Control Projects (Still Draft)](/docs/projects/control.md)
+* Hard Skills:
+  * [Soldering](/docs/hardskills/soldering.md)
 * [Software](/docs/software.md)
 * [Podcasts](/docs/podcasts.md)
 * [Competitions](/docs/competitions.md)
