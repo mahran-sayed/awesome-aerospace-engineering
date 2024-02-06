@@ -33,6 +33,15 @@ Orbital Mechanics Learning Resources!:)
 **Author:** 	Baker, Robert M. L <br />
 [**Book**](https://catalog.hathitrust.org/Record/001035933) <br />
 <br />
+***Orbital Dynamics Of Space Vehicles (Public Domain, published by [HathiTrust](https://www.hathitrust.org/about))***  <br />
+**Author:** 	Ralph Deutsch <br />
+[**Book**](https://catalog.hathitrust.org/Record/001115264?type%5B%5D=subject&lookfor%5B%5D=%22%20Astrodynamics%22&ft=ft#viewability) <br />
+<br />
+***Modern Techniques in Astrodynamics - An Introduction (Public Domain, published by [HathiTrust](https://www.hathitrust.org/about) & [DTIC](https://apps.dtic.mi) )***  <br />
+**Author:** 	Ralph Deutsch <br />
+[**Book by HathiTrust**](https://catalog.hathitrust.org/Record/102325174?type%5B%5D=subject&lookfor%5B%5D=%22%20Astrodynamics%22&ft=ft#viewability)<br />
+[**Book by DTIC**](https://apps.dtic.mil/sti/citations/AD0718963)<br />
+<br />
 ## :film_strip:Video Courses: 
 
 ***AEE 462: Spacecraft Dynamics and Control*** <br />
