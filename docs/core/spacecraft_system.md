@@ -1,4 +1,4 @@
-# Awesome Spacecraft Systems
+# Awesome Space Mission Analysis and Design
 Spacecraft Systems Learning Resources!:)
 
 ### **Table of Contents:**
@@ -9,7 +9,14 @@ Spacecraft Systems Learning Resources!:)
 
 
 ## :books:Books:
-
+***Space Mission Engineering: The New SMAD (MOST POPULAR ONE, Paid)*** <br />
+**Author:** Wertz, Everett and Puschell <br />
+**Publisher:** Microcosm <br />
+<br />
+***Low Earth Orbit Satellite Design (Paid)*** <br />
+**Author:**  George Sebestyen , Steve Fujikawa , Nicholas Galassi , Alex Chuchra <br />
+**Publisher:** Springer <br />
+<br />
 ***Spacecraft Systems Engineering (Paid)*** <br />
 **Author:** Peter Fortescue, Graham Swinerd, John Stark <br />
 **Publisher:** Wiley <br />
@@ -37,3 +44,5 @@ Spacecraft Systems Learning Resources!:)
 ## :open_book:Web Based Courses:
 
 [***Satellite Engineering, MIT (Lecture Notes, Projects with Examples, Design Assignments with Examples, Programming Assignments with Examples)***](https://ocw.mit.edu/courses/16-851-satellite-engineering-fall-2003/) <br />
+
+Have a look at awesome [CanSat](https://github.com/mahran-sayed/awesome-aerospace-engineering/blob/main/docs/projects/cansat.md) and [CubeSat](https://github.com/mahran-sayed/awesome-aerospace-engineering/blob/main/docs/projects/cubesat.md) Projects for more resources!
