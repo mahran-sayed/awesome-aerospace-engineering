@@ -21,7 +21,7 @@ A list of aerospace learning materials , [How to contribure?](/CONTRIBUTING.md)
   * [Composite Materials](/docs/core/composite_materials.md)
   * [Orbital Mechanics](/docs/core/orbital_mechanics.md)
   * [Rocket Propulsion](/docs/core/rocket_propulsion.md)
-  * [Spacecraft Systems](/docs/core/spacecraft_system.md)
+  * [Space Mission Analysis and Design](/docs/core/spacecraft_system.md)
 * General Engineering Subjects:
   *  Mathematics
       * [Precalculus](/docs/non-core/mathematics/precalculus.md)  
