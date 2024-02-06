@@ -1,4 +1,4 @@
-# Awesome Aerospace Coding (Still Draft)
+# Awesome Aerospace Coding
 
 ***Coding for Engineers (Aerospace based)*** <br />
 **Instructor:** Harry Smith <br />
@@ -12,6 +12,11 @@
 **Instructor:** Hans-Petter Halvorsen <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PLdb-TcK6Aqj2hlH55Bn5oxFIvyoVbXxQS&feature=shared) <br />
 [**Textbook + PowerPoint**](https://www.halvorsen.blog/documents/programming/python/python.php#python2) <br />
+<br />
+***Scientific Visualization: Python + Matplotlib*** <br />
+**Author:** Nicolas P. Rougier, Bordeaux <br />
+[**Textbook + Codes**](https://github.com/rougier/scientific-visualization-book) <br />
+<br />
 ***Python for mechanical engineer*** <br />
 **Instructor:** Harikrushna Dodiya <br />
 [**Watch On YouTube**](https://youtube.com/playlist?list=PL6xqi8nKo2yA98zG2moudwZpuWQK-iHmn) <br />
