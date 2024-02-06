@@ -42,6 +42,7 @@ Spacecraft Systems Learning Resources!:)
 <br />
 
 ## :open_book:Web Based Courses:
+[***Space Mission Design***](https://spacecraft.ssl.umd.edu/index.html) <br />
 
 [***Satellite Engineering, MIT (Lecture Notes, Projects with Examples, Design Assignments with Examples, Programming Assignments with Examples)***](https://ocw.mit.edu/courses/16-851-satellite-engineering-fall-2003/) <br />
 
