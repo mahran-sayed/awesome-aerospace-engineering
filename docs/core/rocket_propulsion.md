@@ -24,6 +24,15 @@ Rocket Propulsion Learning Resources!:)
 **Author:** North American Aviation. Rocketdyne Division <br />
 [**Download 1**](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha001035901) or [**Download 2**](https://babel.hathitrust.org/cgi/pt?id=mdp.39015002938747&view=1up&seq=16&skin=2021)  <br />
  <br />
+***Introduction to Rocket Propulsion (Free, DTIC)*** <br />
+**Author:** Lyon, J. M. <br />
+[**Download**](https://apps.dtic.mil/sti/citations/ADA250424) <br />
+ <br />
+***Rocket Propulsion Notes (Free, a book of supplementary notes for the ME 499/505: Propulsion course at State University)*** <br />
+**Author:** [Kyle E. Niemeyer, Ph.D.](https://niemeyer-research-group.github.io/) <br />
+[**Online Book**](https://kyleniemeyer.github.io/rocket-propulsion/intro.html) <br />
+<br />
+ 
 ***Liquid propellant rocket combustion instability (Free) (Public Domain)*** <br />
 **Author:** Harrje, D. T.(NASA Headquarters Washington, DC United States) <br />
 [**Download 1**](https://ntrs.nasa.gov/citations/19720026079) or [**Download 2**](https://ntrs.nasa.gov/api/citations/19720026079/downloads/19720026079.pdf) <br />
