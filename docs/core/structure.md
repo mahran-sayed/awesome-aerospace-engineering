@@ -5,8 +5,6 @@ Aircraft Structures Learning Resources!:)
 * [Books](#booksbooks)
 * [Video Courses](#film_stripvideo-courses)
 
-
-
 ## :books:Books:
 ***Analysis and Design of Flight Vehicle Structures (Paid, one of the most popular one)*** <br />
 **Author:**  E. F. Bruhn <br />
