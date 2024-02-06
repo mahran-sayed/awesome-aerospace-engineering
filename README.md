@@ -42,7 +42,7 @@ A list of aerospace learning materials , [How to contribure?](/CONTRIBUTING.md)
 * General Skills: 
   * [LaTeX](/docs/skills/latex.md)
   * [Excel (Still Draft)](/docs/skills/excel.md)
-  * [Coding (Still Draft)](/docs/skills/coding.md)  
+  * [Coding](/docs/skills/coding.md)  
 * Projects: 
   * [CanSat](/docs/projects/cansat.md) 
   * [CubeSat](/docs/projects/cubesat.md)
