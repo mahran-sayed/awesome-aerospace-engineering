@@ -31,14 +31,21 @@
 
 ## Projects
 
-[***AMSAT® CubeSatSim Project***](https://github.com/alanbjohnston/CubeSatSim/wiki) <br />
+***SBUDNIC:*** 
+[**Homepage**](https://www.sbudnic.space/), [**Technical Documentation Repository**](https://drive.google.com/drive/folders/1UcoCtKYqj43dilyOSkveKJn21k0Mqbk0), [**Arduino libraries and source**](https://github.com/elaidlaw/sbudnic-library) <br />
+[***Quetzal-1***](https://github.com/Quetzal-1-CubeSat-Team) <br />
 [***Ukpik-1 CubeSat Project***](https://github.com/cubesat-project/CubeSat/wiki) <br />
 [***UPSat CubeSat Project***](https://upsat.gr/) <br />
 [***PyCubed***](https://www.notion.so/maholli/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) <br />
 [***ORESAT***](https://www.oresat.org/home) <br />
 [***FossaSat-1***](https://github.com/FOSSASystems/FOSSASAT-1) <br />
+***PeakSat***
+[**GitHub**](https://github.com/PeakSat), [**Homepage**](https://peaksat.spacedot.gr/) <br />
 ***AcubeSAT (Under Construction):*** 
 [**GitLab**](https://gitlab.com/acubesat), [**Documentation**](https://helit.org/mm/docList/public), [**Homepage**](https://acubesat.spacedot.gr/) <br />
+[***AMSAT® CubeSatSim Project***](https://github.com/alanbjohnston/CubeSatSim/wiki) <br />
+
+
 
 ## Guide + Project:
 
