@@ -12,6 +12,10 @@ Aerodynamics Learning Resources!:)
 
 
 ## :books:Books:
+***Fundamentals of Aerodynamics, 6th Edition*** <br />
+**Author:** John Anderson <br />
+**Publisher:**: McGraw-Hill <br />
+ <br />
 ***Introduction to Flight, 9th Edition (Paid)*** <br />
 **Author:** John Anderson <br />
 **Publisher:**: McGraw-Hill <br />
