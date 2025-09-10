@@ -1,6 +1,6 @@
 # Awesome Aerospace Contribution Guidelines
 
-You're welcome to contribure through GitHub Pull Requests. 
+You're welcome to contribute through GitHub Pull Requests. 
 
 Please follow the the following guidelines:
 
